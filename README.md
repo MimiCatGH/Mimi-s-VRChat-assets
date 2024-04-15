@@ -10,6 +10,6 @@ Here I will list all the assets or addons I have made for my assets!
 ### <span style="color:#00aa00;">YOU MAY</span>
 \> Showcase or advertise the assets here (Please credit me and link to this source if you do)
 \> Modify assets or make public templates (Please DM me on Discord, and I will update the Addons folder within this GitHub)
-### YOU<span style="color:#aa0000;">YOU MAY NOT</span>
+### <span style="color:#aa0000;">YOU MAY NOT</span>
 \> Redistribute and monetize the asset and/or any modification in any way, shape, or form.
 \>\> Follow Up. This is a non-profit project and is meant to be completely free. If you had to pay for this, you are being scammed. Please report the problem by **[following this link](<https://forms.gle/uzJSdKCsM4adpez46>)**
